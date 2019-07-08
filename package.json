@@ -1,0 +1,17 @@
+{
+  "name": "iris",
+  "version": "1.0.0",
+  "description": "Node microservice example",
+  "main": "server/service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "microservice",
+    "nodejs",
+    "slackbot",
+    "bot"
+  ],
+  "author": "deyniloy7",
+  "license": "ISC"
+}
